@@ -1,0 +1,12 @@
+.banner {
+  background-image: url("../images/seiko.webp");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.slide {
+  padding: 50px;
+  color: white;
+  background-color: rgba(72, 99, 247, 0.6);
+}
